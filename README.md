@@ -1,8 +1,7 @@
 Github Battle
 =====================
 
-Github Battle pits two challengers against each other to see who has the highest Github points.  The points system is based on the amounts of Stars and Forks your repository has.
-Enter in two users and see who wins!  Pulls from the Github API.  Hosted on [Firebase](https://github-battle-67c70.firebaseapp.com/)
+Github Battle pits two challengers against each other to see who has the highest Github points.  The points system is based on the amounts of Stars and Forks your repository has.  Enter in two users and see who wins!  Pulls from the Github API.  Hosted on Firebase: [Link](https://github-battle-67c70.firebaseapp.com/)
 
 ## Screenshot
 
