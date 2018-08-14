@@ -7,7 +7,7 @@ Github Battle pits two challengers against each other to see who has the highest
 
 
 <img src="https://github.com/chrisliew/github-battle/blob/master/docs/1.png" height="400px" width="800px">
-<img align="center" src="https://github.com/chrisliew/github-battle/blob/master/docs/1.png" height="400px" width="800px">
+<img align="center" src="https://github.com/chrisliew/github-battle/blob/master/docs/2.png" height="400px" width="800px">
 
 
 ### Usage
